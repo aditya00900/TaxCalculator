@@ -1,0 +1,10 @@
+
+.position-relative .bi-exclamation-circle {
+    pointer-events: none; /* Makes the icon non-interactive */
+}
+.container{
+    border: 2px solid black; 
+    padding: 20px; 
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
